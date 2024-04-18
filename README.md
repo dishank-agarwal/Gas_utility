@@ -11,8 +11,8 @@ _Clone the Repository:_ Clone the repository to your local machine.
 _bash_
 git clone <repository-url>
 
-**Navigate to the Project Directory:
-**_bash_
+**Navigate to the Project Directory:**
+_bash_
 cd <project-directory>
 
 **Create and Activate a Virtual Environment:**
